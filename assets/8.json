@@ -1,0 +1,18 @@
+{
+    "name": "Goupix",
+    "symbol": "PKN",
+    "description": "Collection of 10 Pokemons on the blockchain. This is the Pokemon 9/10.",
+    "seller_fee_basis_points": 500,
+    "image": "8.png",
+    "attributes": [
+        {"trait_type": "Layer-1", "value": "0"},
+        {"trait_type": "Layer-2", "value": "0"}, 
+        {"trait_type": "Layer-3", "value": "0"},
+        {"trait_type": "Layer-4", "value": "1"}
+    ],
+    "properties": {
+        "creators": [{"address": "SeRpYbCsjS2KBW1HsASzDb6ZhZxhpWNUedjPJzbHfbq", "share": 100}],
+        "files": [{"uri": "8.png", "type": "image/png"}]
+    },
+    "collection": {"name": "Pokemons", "family": "Pokemons"}
+}

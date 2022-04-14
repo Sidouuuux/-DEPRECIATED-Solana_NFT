@@ -1,5 +1,6 @@
-#Create an NFT collection on Solana
-##Prerequest :
+# Create an NFT collection on Solana
+
+## Prerequest :
 
 - [NodeJS](https://nodejs.org/en/ "NodeJS")
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/ "Yarn")
@@ -7,7 +8,7 @@
 - [Phantom](https://phantom.app/download "Phantom")
 - [Rust](https://www.rust-lang.org/tools/install "Rust")
 
-####Install metaplex :
+#### Install metaplex :
 
 ```bash
 git clone https://github.com/metaplex-foundation/metaplex.git
@@ -15,7 +16,8 @@ cd metaplex/js
 yarn install
 ```
 
-##Preparing wallet :
+## Preparing wallet :
+
 launch those commands in your root project folder
 
 ```bash
@@ -31,7 +33,7 @@ solana airdrorp p2kyFJzjDbpi8JVKyqDRAJo5hZg2JS6gN8HbehvYcwv.json
 
 if the airdrop command does not pass, go to https://solfaucet.com and put your adress to get SOL for the devent
 
-####Verify your balance
+#### Verify your balance
 
 ```bash
 solana balance p1ePUMbgtwo9kyrNBV7DwpBcn8g12VGMGs9UiYzUuxB.json
@@ -42,7 +44,7 @@ Prepare your NFTs images and metadata. You can find NFTs example with their meta
 ##SPL tokens :
 To make a presale or a whitelist, you will need to generate and distribute SPL tokens. those tokens allow their holders to mint before everyone else.
 
-####Generate SPL tokens :
+#### Generate SPL tokens :
 
 ```bash
 #pointing the keypair path to the first wallet (seller) :
@@ -59,7 +61,8 @@ spl-token mint To1DJLReVbgFGVtRGUEj8X9LxFVkjLubfPMJRA2sZQe.json 10
 spl-token accounts
 ```
 
-####Distribute the tokens with gumdrop:
+#### Distribute the tokens with gumdrop:
+
 To distribute the tokens we are going to use gumdrop.
 
 First, clone the gumdrop repo and install the modules :

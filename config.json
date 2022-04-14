@@ -1,0 +1,32 @@
+{
+  "price": 0.005,
+  "number": 10,
+  "gatekeeper": {
+    "gatekeeperNetwork": "ignREusXmGrscGNUesoU9mxfds9AiYTezUKex2PsZV6",
+    "expireOnUse": true
+  },
+  "solTreasuryAccount": "p1ePUMbgtwo9kyrNBV7DwpBcn8g12VGMGs9UiYzUuxB",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "25 Dec 2022 00:00:00 GMT",
+  "endSettings": null,
+  "whitelistMintSettings": {
+    "mode": {
+      "burnEveryTime": true
+    },
+    "mint": "To1DJLReVbgFGVtRGUEj8X9LxFVkjLubfPMJRA2sZQe",
+    "presale": true,
+    "discountPrice": null
+  },
+  "hiddenSettings": {
+    "name": "Pokemon Collection ",
+    "uri": "https://arweave.net/uulbbeAdzKB3MlmuMavLhs7cO9GwoqtThfFEsGhNaZk"
+  },
+  "storage": "arweave",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "nftStorageKey": null,
+  "awsS3Bucket": null,
+  "noRetainAuthority": false,
+  "noMutable": false
+}

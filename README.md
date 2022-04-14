@@ -4,7 +4,7 @@
 
 - [NodeJS](https://nodejs.org/en/ "NodeJS")
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/ "Yarn")
-- [Solana tool suite](https://docs.solana.com/cli/install-solana-cli-tools "Solana tool suite"),
+- [Solana tool suite](https://docs.solana.com/cli/install-solana-cli-tools "Solana tool suite")
 - [Phantom](https://phantom.app/download "Phantom")
 - [Rust](https://www.rust-lang.org/tools/install "Rust")
 
@@ -113,3 +113,7 @@ ts-node ./metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_upload -k 
 #Verify the NFTs price
 ts-node ./metaplex/js/packages/cli/src/candy-machine-v2-cli.ts verify_price -k p1ePUMbgtwo9kyrNBV7DwpBcn8g12VGMGs9UiYzUuxB.json -p 0.005
 ```
+
+## Making the UI :
+
+Coming soon

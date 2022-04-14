@@ -1,0 +1,71 @@
+{
+  "program": {
+    "uuid": "7ARVf8",
+    "candyMachine": "7ARVf8PcdvWnZkKZyczTo1AVokjTCpUzrQMV88b4qvPg",
+    "collection": "9krDiH8SyHiXNXnTfeMxCEdyt6wZP2PrsLNe3PLVbmJw"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/BKIN78XLTxWPKBSEowMnNlTbycr-njrRbWRomzsypzE",
+      "imageLink": "https://arweave.net/lNn6dbLojbvcbE0cNPqSMc_Zq7LvdPDq4NwZYSpC7ZI?ext=png",
+      "name": "Gobou",
+      "onChain": false
+    },
+    "1": {
+      "link": "https://arweave.net/YAda9PiaH2oWrMt2PV_Sw5uEpK8T_Fncqta-TZwZ2gg",
+      "imageLink": "https://arweave.net/TQCzLhvaBnlf6Gbdll2oB4E9S9x4qBwBy-J6A45zqQo?ext=png",
+      "name": "Stari",
+      "onChain": false
+    },
+    "2": {
+      "link": "https://arweave.net/Y4_nTCqHPBKbMWAShS1hsLjHp7qrysTJM2oGafA4WYg",
+      "imageLink": "https://arweave.net/_krl_g91i5u-29SkZMh0q9i_hoPAhOzsQX7n8O3UIsI?ext=png",
+      "name": "Caninos",
+      "onChain": false
+    },
+    "3": {
+      "link": "https://arweave.net/kzVRVDAoZpTYJgjEVGtF1EhmoMF9RzwjDzGuGL3BWy4",
+      "imageLink": "https://arweave.net/_VwL7hMrJBhnoTGhMnkvsqYIYyJIVPf89O8EPxXN-yo?ext=png",
+      "name": "Hippocampe",
+      "onChain": false
+    },
+    "4": {
+      "link": "https://arweave.net/p66RoJnorn53Dt6aKk0pLAeQS0p8M5FE73Yr1FzJYQc",
+      "imageLink": "https://arweave.net/hEFSBgHdog0l2akbJUfcojxkiIvCwfAxtPUOo405K3M?ext=png",
+      "name": "Bulbizarre",
+      "onChain": false
+    },
+    "5": {
+      "link": "https://arweave.net/nnB9jiUxz-UOD_1ebI1VUiaYBPc4Qx-S3gZmkxC0i8U",
+      "imageLink": "https://arweave.net/dzAX_HLNYchCjaeY6tB6cxaQWhKClsSfeR8uzEyx1Xs?ext=png",
+      "name": "Salamèche",
+      "onChain": false
+    },
+    "6": {
+      "link": "https://arweave.net/7KmtNqtKOxE4gHyLoyfHXLmuOIv4HKE6uCsg8ZEp8dE",
+      "imageLink": "https://arweave.net/Op2IfxdwVQaQXoiw6eNfc14JIgtog_umfy6jNdX1nH8?ext=png",
+      "name": "Carapuce",
+      "onChain": false
+    },
+    "7": {
+      "link": "https://arweave.net/I1qQaVU6tV_PPA3f_iDBC-A17vDIVrK1cVUMTVMrsMg",
+      "imageLink": "https://arweave.net/r7p0r1ejfE4DmxgJzr0yaIKIWPjQFDLqtP-1Yvr2ARw?ext=png",
+      "name": "Pikachu",
+      "onChain": false
+    },
+    "8": {
+      "link": "https://arweave.net/TrxqIeM2tsgVuaLycoQhCrYAOCTOGs6dapJEqgrmc4U",
+      "imageLink": "https://arweave.net/b9YxqrJmuJov_tVnieUgh88lt-34_V-rZeHIUUWH1DQ?ext=png",
+      "name": "Goupix",
+      "onChain": false
+    },
+    "9": {
+      "link": "https://arweave.net/xPgxZesoQs_pAfrmpRFBiLbPS7ZOKXr33aqSpOKUcL4",
+      "imageLink": "https://arweave.net/DEZbEt8Km7tzl5CPIkPo0xuo_c97WKw2uT8h2KmLsy4?ext=png",
+      "name": "Miaouss",
+      "onChain": false
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

@@ -41,7 +41,7 @@ solana balance p1ePUMbgtwo9kyrNBV7DwpBcn8g12VGMGs9UiYzUuxB.json
 
 Prepare your NFTs images and metadata. You can find NFTs example with their metadata in the assets folder
 
-##SPL tokens :
+## SPL tokens :
 To make a presale or a whitelist, you will need to generate and distribute SPL tokens. those tokens allow their holders to mint before everyone else.
 
 ## Generate SPL tokens :
